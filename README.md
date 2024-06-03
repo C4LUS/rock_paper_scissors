@@ -3,7 +3,7 @@
 ## Preview
 This project is a command line Rock-Paper-Scissors game written in Lua. The player chooses between "rock", "paper" or "scissors", and the computer also makes a random choice. The program compares the two choices and determines the winner.
 
-![Previw](./screenshot/Screenshot_2024-06-03_11-29-42.png)
+![Previw](./screenshote/Screenshot_2024-06-03_11-29-42.png)
 
 ## Fonctionality
 
